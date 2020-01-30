@@ -1,20 +1,20 @@
 {
     "workbench.colorCustomizations": {
-        "activityBar.background": "#f78f99",
-        "activityBar.activeBorder": "#e4fde1",
+        "activityBar.background": "#f1b759",
+        "activityBar.activeBorder": "#0c9360",
         "activityBar.foreground": "#15202b",
         "activityBar.inactiveForeground": "#15202b99",
-        "activityBarBadge.background": "#e4fde1",
-        "activityBarBadge.foreground": "#15202b",
-        "titleBar.activeBackground": "#f3606e",
-        "titleBar.inactiveBackground": "#f3606e99",
+        "activityBarBadge.background": "#0c9360",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "titleBar.activeBackground": "#eda22a",
+        "titleBar.inactiveBackground": "#eda22a99",
         "titleBar.activeForeground": "#15202b",
         "titleBar.inactiveForeground": "#15202b99",
-        "statusBar.background": "#f3606e",
-        "statusBarItem.hoverBackground": "#ef3143",
+        "statusBar.background": "#eda22a",
+        "statusBarItem.hoverBackground": "#d28812",
         "statusBar.foreground": "#15202b"
     },
-    "peacock.color": "#f3606e",
+    "peacock.color": "#eda22a",
     "sqltools.connections": [
         {
             "database": "wishlist",
